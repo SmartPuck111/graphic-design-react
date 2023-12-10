@@ -1,0 +1,22 @@
+.checkoutProduct__item{
+    padding: 13px;
+}
+
+.checkoutProduct__title{
+    color: #7c64be !important;
+    font-weight: bold;
+}
+
+.checkoutProduct__button{
+    margin-top: 10px !important; 
+}
+
+.checkoutProduct__price{
+   margin: 5px;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.checkoutProduct__image{
+    object-fit: contain;
+}
