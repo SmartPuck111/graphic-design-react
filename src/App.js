@@ -36,7 +36,7 @@ function App() {
   return (
     <div className="app">
       <Router>
-        <Header></Header>
+        <Header>Hello</Header>
         <Switch>
           <Route path="/" component={Home} exact></Route>
           <Route path="/uploadImage" component={UploadImage}></Route>
